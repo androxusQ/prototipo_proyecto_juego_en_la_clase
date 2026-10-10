@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b9bf3e5fe0764e54dbe59efdb4a0ebe3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5545526515515215856
+    second: sol.jpeg_0002_nubes2_0
+  - first:
+      213: -2347137056703125090
+    second: sol.jpeg_0002_nubes2_1
+  - first:
+      213: -3176948654005800652
+    second: sol.jpeg_0002_nubes2_2
+  - first:
+      213: -3742741155183151456
+    second: sol.jpeg_0002_nubes2_3
+  - first:
+      213: 4915057398954726577
+    second: sol.jpeg_0002_nubes2_4
+  - first:
+      213: -3658204917600466682
+    second: sol.jpeg_0002_nubes2_5
+  - first:
+      213: 3940205576630450840
+    second: sol.jpeg_0002_nubes2_6
+  - first:
+      213: 2145928084494261180
+    second: sol.jpeg_0002_nubes2_7
+  - first:
+      213: 1187525024640954853
+    second: sol.jpeg_0002_nubes2_8
+  - first:
+      213: 7573680987543428628
+    second: sol.jpeg_0002_nubes2_9
+  - first:
+      213: -6840039736300495389
+    second: sol.jpeg_0002_nubes2_10
+  - first:
+      213: 1451592752100823661
+    second: sol.jpeg_0002_nubes2_11
+  - first:
+      213: 7151128435771854816
+    second: sol.jpeg_0002_nubes2_12
+  - first:
+      213: 3421760763922151527
+    second: sol.jpeg_0002_nubes2_13
+  - first:
+      213: -991705374440337656
+    second: sol.jpeg_0002_nubes2_14
+  - first:
+      213: 2460873153244483985
+    second: sol.jpeg_0002_nubes2_15
+  - first:
+      213: -7857161336146495896
+    second: sol.jpeg_0002_nubes2_16
+  - first:
+      213: 1003674293320809651
+    second: sol.jpeg_0002_nubes2_17
+  - first:
+      213: -7175332409857521165
+    second: sol.jpeg_0002_nubes2_18
+  - first:
+      213: 1500841362209079310
+    second: sol.jpeg_0002_nubes2_19
+  - first:
+      213: -2269925900398800406
+    second: sol.jpeg_0002_nubes2_20
+  - first:
+      213: 7095022594100224864
+    second: sol.jpeg_0002_nubes2_21
+  - first:
+      213: -2197420277425093108
+    second: sol.jpeg_0002_nubes2_22
+  - first:
+      213: -8767123881649617195
+    second: sol.jpeg_0002_nubes2_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 516
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff4bc10cfaa5fc40800000000000000
+      internalID: 5545526515515215856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_1
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 640
+        width: 433
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ed08584b4d6fd0800000000000000
+      internalID: -2347137056703125090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_2
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 733
+        width: 199
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4313458080639e3d0800000000000000
+      internalID: -3176948654005800652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_3
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 721
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6b21fcfbc1f0cc0800000000000000
+      internalID: -3742741155183151456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 674
+        width: 252
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b41a5bc9aac53440800000000000000
+      internalID: 4915057398954726577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 678
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60946da62027b3dc0800000000000000
+      internalID: -3658204917600466682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 224
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a3219881c6ea630800000000000000
+      internalID: 3940205576630450840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 505
+        width: 541
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb90d5293ed7cd10800000000000000
+      internalID: 2145928084494261180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 564
+        width: 423
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e17c97d7bfea7010800000000000000
+      internalID: 1187525024640954853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_9
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 573
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ed7a82bbe1b1960800000000000000
+      internalID: 7573680987543428628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_10
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 489
+        width: 347
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed9044991c4311a0800000000000000
+      internalID: -6840039736300495389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_11
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 497
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62508bcae7152410800000000000000
+      internalID: 1451592752100823661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 383
+        width: 661
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef406d8c69ed3360800000000000000
+      internalID: 7151128435771854816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_13
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 404
+        width: 220
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f2f719498c7f20800000000000000
+      internalID: 3421760763922151527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_14
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 421
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f43aa5731cc32f0800000000000000
+      internalID: -991705374440337656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_15
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 412
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191de683817c62220800000000000000
+      internalID: 2460873153244483985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_16
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 421
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866fd00d461c5f290800000000000000
+      internalID: -7857161336146495896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 400
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcf39bb374cded00800000000000000
+      internalID: 1003674293320809651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 269
+        width: 404
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9481590391c6c90800000000000000
+      internalID: -7175332409857521165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 277
+        width: 419
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e008fa2644f04d410800000000000000
+      internalID: 1500841362209079310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_20
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 314
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae155409b6a9f70e0800000000000000
+      internalID: -2269925900398800406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_21
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 306
+        width: 221
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063e6b25575967260800000000000000
+      internalID: 7095022594100224864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_22
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 315
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0646dd66e13181e0800000000000000
+      internalID: -2197420277425093108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol.jpeg_0002_nubes2_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 302
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d64e64a74be45680800000000000000
+      internalID: -8767123881649617195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sol.jpeg_0002_nubes2_0: 5545526515515215856
+      sol.jpeg_0002_nubes2_1: -2347137056703125090
+      sol.jpeg_0002_nubes2_10: -6840039736300495389
+      sol.jpeg_0002_nubes2_11: 1451592752100823661
+      sol.jpeg_0002_nubes2_12: 7151128435771854816
+      sol.jpeg_0002_nubes2_13: 3421760763922151527
+      sol.jpeg_0002_nubes2_14: -991705374440337656
+      sol.jpeg_0002_nubes2_15: 2460873153244483985
+      sol.jpeg_0002_nubes2_16: -7857161336146495896
+      sol.jpeg_0002_nubes2_17: 1003674293320809651
+      sol.jpeg_0002_nubes2_18: -7175332409857521165
+      sol.jpeg_0002_nubes2_19: 1500841362209079310
+      sol.jpeg_0002_nubes2_2: -3176948654005800652
+      sol.jpeg_0002_nubes2_20: -2269925900398800406
+      sol.jpeg_0002_nubes2_21: 7095022594100224864
+      sol.jpeg_0002_nubes2_22: -2197420277425093108
+      sol.jpeg_0002_nubes2_23: -8767123881649617195
+      sol.jpeg_0002_nubes2_3: -3742741155183151456
+      sol.jpeg_0002_nubes2_4: 4915057398954726577
+      sol.jpeg_0002_nubes2_5: -3658204917600466682
+      sol.jpeg_0002_nubes2_6: 3940205576630450840
+      sol.jpeg_0002_nubes2_7: 2145928084494261180
+      sol.jpeg_0002_nubes2_8: 1187525024640954853
+      sol.jpeg_0002_nubes2_9: 7573680987543428628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

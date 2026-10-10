@@ -263,12 +263,12 @@ TextureImporter:
       name: animaciones de los personajes 2_0
       rect:
         serializedVersion: 2
-        x: 20
+        x: 30
         y: 677
-        width: 107
-        height: 137
+        width: 97
+        height: 126
       alignment: 9
-      pivot: {x: 0.6739194, y: 0.44280648}
+      pivot: {x: 0.693766, y: 0.51156086}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -285,12 +285,12 @@ TextureImporter:
       name: animaciones de los personajes 2_1
       rect:
         serializedVersion: 2
-        x: 166
+        x: 175
         y: 677
-        width: 110
-        height: 127
+        width: 101
+        height: 126
       alignment: 9
-      pivot: {x: 0.7404083, y: 0.4691513}
+      pivot: {x: 0.7451735, y: 0.50352794}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -312,7 +312,7 @@ TextureImporter:
         width: 95
         height: 127
       alignment: 9
-      pivot: {x: 0.685579, y: 0.46915177}
+      pivot: {x: 0.72610766, y: 0.49946848}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -329,12 +329,12 @@ TextureImporter:
       name: animaciones de los personajes 2_3
       rect:
         serializedVersion: 2
-        x: 475
+        x: 487
         y: 678
-        width: 114
-        height: 130
+        width: 102
+        height: 125
       alignment: 9
-      pivot: {x: 0.6976067, y: 0.46986365}
+      pivot: {x: 0.7163631, y: 0.5245244}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -351,12 +351,12 @@ TextureImporter:
       name: animaciones de los personajes 2_4
       rect:
         serializedVersion: 2
-        x: 632
+        x: 646
         y: 677
-        width: 110
-        height: 134
+        width: 96
+        height: 126
       alignment: 9
-      pivot: {x: 0.7047924, y: 0.46345362}
+      pivot: {x: 0.68771106, y: 0.5285257}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -378,7 +378,7 @@ TextureImporter:
         width: 102
         height: 127
       alignment: 9
-      pivot: {x: 0.67284316, y: 0.5}
+      pivot: {x: 0.7023172, y: 0.5301278}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -395,12 +395,12 @@ TextureImporter:
       name: animaciones de los personajes 2_6
       rect:
         serializedVersion: 2
-        x: 938
+        x: 954
         y: 677
-        width: 114
-        height: 137
+        width: 98
+        height: 127
       alignment: 9
-      pivot: {x: 0.7147902, y: 0.4499556}
+      pivot: {x: 0.6741862, y: 0.5224134}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -417,12 +417,12 @@ TextureImporter:
       name: animaciones de los personajes 2_7
       rect:
         serializedVersion: 2
-        x: 1092
+        x: 1104
         y: 677
-        width: 159
-        height: 137
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 103
+        height: 127
+      alignment: 9
+      pivot: {x: 0.69800043, y: 0.54504156}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
