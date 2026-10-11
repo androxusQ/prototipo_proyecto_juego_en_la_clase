@@ -3,77 +3,77 @@ guid: b9bf3e5fe0764e54dbe59efdb4a0ebe3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5545526515515215856
-    second: sol.jpeg_0002_nubes2_0
+      213: 6937817954938267909
+    second: 2_0
   - first:
-      213: -2347137056703125090
-    second: sol.jpeg_0002_nubes2_1
+      213: 3191122964850554743
+    second: 2_1
   - first:
-      213: -3176948654005800652
-    second: sol.jpeg_0002_nubes2_2
+      213: 5382512944479897801
+    second: 2_2
   - first:
-      213: -3742741155183151456
-    second: sol.jpeg_0002_nubes2_3
+      213: -5515383189529662604
+    second: 2_3
   - first:
-      213: 4915057398954726577
-    second: sol.jpeg_0002_nubes2_4
+      213: -3926759211464601419
+    second: 2_4
   - first:
-      213: -3658204917600466682
-    second: sol.jpeg_0002_nubes2_5
+      213: -4424780041397978121
+    second: 2_5
   - first:
-      213: 3940205576630450840
-    second: sol.jpeg_0002_nubes2_6
+      213: 8817454751965551104
+    second: 2_6
   - first:
-      213: 2145928084494261180
-    second: sol.jpeg_0002_nubes2_7
+      213: 3974921216390489406
+    second: 2_7
   - first:
-      213: 1187525024640954853
-    second: sol.jpeg_0002_nubes2_8
+      213: -779157609879621035
+    second: 2_8
   - first:
-      213: 7573680987543428628
-    second: sol.jpeg_0002_nubes2_9
+      213: -5883455936764719873
+    second: 2_9
   - first:
-      213: -6840039736300495389
-    second: sol.jpeg_0002_nubes2_10
+      213: -8839637946123531936
+    second: 2_10
   - first:
-      213: 1451592752100823661
-    second: sol.jpeg_0002_nubes2_11
+      213: 5288689158075730194
+    second: 2_11
   - first:
-      213: 7151128435771854816
-    second: sol.jpeg_0002_nubes2_12
+      213: -2847823790183061483
+    second: 2_12
   - first:
-      213: 3421760763922151527
-    second: sol.jpeg_0002_nubes2_13
+      213: -4312959346109786154
+    second: 2_13
   - first:
-      213: -991705374440337656
-    second: sol.jpeg_0002_nubes2_14
+      213: 1569468284126946330
+    second: 2_14
   - first:
-      213: 2460873153244483985
-    second: sol.jpeg_0002_nubes2_15
+      213: -3602863821127969767
+    second: 2_15
   - first:
-      213: -7857161336146495896
-    second: sol.jpeg_0002_nubes2_16
+      213: -282365312502611083
+    second: 2_16
   - first:
-      213: 1003674293320809651
-    second: sol.jpeg_0002_nubes2_17
+      213: 4544183903939005263
+    second: 2_17
   - first:
-      213: -7175332409857521165
-    second: sol.jpeg_0002_nubes2_18
+      213: 2920196126069117805
+    second: 2_18
   - first:
-      213: 1500841362209079310
-    second: sol.jpeg_0002_nubes2_19
+      213: 3332387826080962713
+    second: 2_19
   - first:
-      213: -2269925900398800406
-    second: sol.jpeg_0002_nubes2_20
+      213: 6522447452607470340
+    second: 2_20
   - first:
-      213: 7095022594100224864
-    second: sol.jpeg_0002_nubes2_21
+      213: -1618872855824997472
+    second: 2_21
   - first:
-      213: -2197420277425093108
-    second: sol.jpeg_0002_nubes2_22
+      213: 4971156485235890979
+    second: 2_22
   - first:
-      213: -8767123881649617195
-    second: sol.jpeg_0002_nubes2_23
+      213: 4194489117452840178
+    second: 2_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,16 +106,16 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -144,7 +144,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -182,7 +182,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_0
+      name: 2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -197,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ff4bc10cfaa5fc40800000000000000
-      internalID: 5545526515515215856
+      spriteID: 5092c600ca4184060800000000000000
+      internalID: 6937817954938267909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_1
+      name: 2_1
       rect:
         serializedVersion: 2
         x: 943
@@ -219,14 +219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e99ed08584b4d6fd0800000000000000
-      internalID: -2347137056703125090
+      spriteID: 7773282ed65294c20800000000000000
+      internalID: 3191122964850554743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_2
+      name: 2_2
       rect:
         serializedVersion: 2
         x: 973
@@ -241,14 +241,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4313458080639e3d0800000000000000
-      internalID: -3176948654005800652
+      spriteID: 9c88aa6510782ba40800000000000000
+      internalID: 5382512944479897801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_3
+      name: 2_3
       rect:
         serializedVersion: 2
         x: 523
@@ -263,14 +263,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a6b21fcfbc1f0cc0800000000000000
-      internalID: -3742741155183151456
+      spriteID: 47b6cebf53c6573b0800000000000000
+      internalID: -5515383189529662604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_4
+      name: 2_4
       rect:
         serializedVersion: 2
         x: 787
@@ -285,14 +285,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b41a5bc9aac53440800000000000000
-      internalID: 4915057398954726577
+      spriteID: 5b0d8225d495189c0800000000000000
+      internalID: -3926759211464601419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_5
+      name: 2_5
       rect:
         serializedVersion: 2
         x: 765
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60946da62027b3dc0800000000000000
-      internalID: -3658204917600466682
+      spriteID: 7fb3c3feef50892c0800000000000000
+      internalID: -4424780041397978121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_6
+      name: 2_6
       rect:
         serializedVersion: 2
         x: 0
@@ -329,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 89a3219881c6ea630800000000000000
-      internalID: 3940205576630450840
+      spriteID: 00a9cf94164ed5a70800000000000000
+      internalID: 8817454751965551104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_7
+      name: 2_7
       rect:
         serializedVersion: 2
         x: 32
@@ -351,14 +351,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cbb90d5293ed7cd10800000000000000
-      internalID: 2145928084494261180
+      spriteID: e356e1949c1c92730800000000000000
+      internalID: 3974921216390489406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_8
+      name: 2_8
       rect:
         serializedVersion: 2
         x: 541
@@ -373,14 +373,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e17c97d7bfea7010800000000000000
-      internalID: 1187525024640954853
+      spriteID: 552351f2840ef25f0800000000000000
+      internalID: -779157609879621035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_9
+      name: 2_9
       rect:
         serializedVersion: 2
         x: 973
@@ -395,14 +395,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41ed7a82bbe1b1960800000000000000
-      internalID: 7573680987543428628
+      spriteID: ffcc9755ff3c95ea0800000000000000
+      internalID: -5883455936764719873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_10
+      name: 2_10
       rect:
         serializedVersion: 2
         x: 985
@@ -417,14 +417,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ed9044991c4311a0800000000000000
-      internalID: -6840039736300495389
+      spriteID: 0694e365f1c435580800000000000000
+      internalID: -8839637946123531936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_11
+      name: 2_11
       rect:
         serializedVersion: 2
         x: 951
@@ -439,14 +439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d62508bcae7152410800000000000000
-      internalID: 1451592752100823661
+      spriteID: 2194092c4c2356940800000000000000
+      internalID: 5288689158075730194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_12
+      name: 2_12
       rect:
         serializedVersion: 2
         x: 20
@@ -461,14 +461,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ef406d8c69ed3360800000000000000
-      internalID: 7151128435771854816
+      spriteID: 5186b3be95f7a78d0800000000000000
+      internalID: -2847823790183061483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_13
+      name: 2_13
       rect:
         serializedVersion: 2
         x: 769
@@ -483,14 +483,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 768f2f719498c7f20800000000000000
-      internalID: 3421760763922151527
+      spriteID: 6d7dc64635a4524c0800000000000000
+      internalID: -4312959346109786154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_14
+      name: 2_14
       rect:
         serializedVersion: 2
         x: 1077
@@ -505,14 +505,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 80f43aa5731cc32f0800000000000000
-      internalID: -991705374440337656
+      spriteID: a14e0a9c61fd7c510800000000000000
+      internalID: 1569468284126946330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_15
+      name: 2_15
       rect:
         serializedVersion: 2
         x: 1100
@@ -527,14 +527,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 191de683817c62220800000000000000
-      internalID: 2460873153244483985
+      spriteID: 9149f87817e000ec0800000000000000
+      internalID: -3602863821127969767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_16
+      name: 2_16
       rect:
         serializedVersion: 2
         x: 1294
@@ -549,14 +549,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 866fd00d461c5f290800000000000000
-      internalID: -7857161336146495896
+      spriteID: 573c36b8e36d41cf0800000000000000
+      internalID: -282365312502611083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_17
+      name: 2_17
       rect:
         serializedVersion: 2
         x: 688
@@ -571,14 +571,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3bcf39bb374cded00800000000000000
-      internalID: 1003674293320809651
+      spriteID: f4b055c3f2f201f30800000000000000
+      internalID: 4544183903939005263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_18
+      name: 2_18
       rect:
         serializedVersion: 2
         x: 26
@@ -593,14 +593,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f9481590391c6c90800000000000000
-      internalID: -7175332409857521165
+      spriteID: d6352d0a7ee968820800000000000000
+      internalID: 2920196126069117805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_19
+      name: 2_19
       rect:
         serializedVersion: 2
         x: 478
@@ -615,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e008fa2644f04d410800000000000000
-      internalID: 1500841362209079310
+      spriteID: 998546372150f3e20800000000000000
+      internalID: 3332387826080962713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_20
+      name: 2_20
       rect:
         serializedVersion: 2
         x: 1026
@@ -637,14 +637,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae155409b6a9f70e0800000000000000
-      internalID: -2269925900398800406
+      spriteID: 40bd1d69663648a50800000000000000
+      internalID: 6522447452607470340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_21
+      name: 2_21
       rect:
         serializedVersion: 2
         x: 1049
@@ -659,14 +659,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 063e6b25575967260800000000000000
-      internalID: 7095022594100224864
+      spriteID: 0a3670cf6bb9889e0800000000000000
+      internalID: -1618872855824997472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_22
+      name: 2_22
       rect:
         serializedVersion: 2
         x: 1283
@@ -681,14 +681,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0646dd66e13181e0800000000000000
-      internalID: -2197420277425093108
+      spriteID: 32b5d592c781df440800000000000000
+      internalID: 4971156485235890979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sol.jpeg_0002_nubes2_23
+      name: 2_23
       rect:
         serializedVersion: 2
         x: 900
@@ -703,8 +703,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d64e64a74be45680800000000000000
-      internalID: -8767123881649617195
+      spriteID: 2fca40401a1d53a30800000000000000
+      internalID: 4194489117452840178
       vertices: []
       indices: 
       edges: []
@@ -713,7 +713,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -723,30 +723,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sol.jpeg_0002_nubes2_0: 5545526515515215856
-      sol.jpeg_0002_nubes2_1: -2347137056703125090
-      sol.jpeg_0002_nubes2_10: -6840039736300495389
-      sol.jpeg_0002_nubes2_11: 1451592752100823661
-      sol.jpeg_0002_nubes2_12: 7151128435771854816
-      sol.jpeg_0002_nubes2_13: 3421760763922151527
-      sol.jpeg_0002_nubes2_14: -991705374440337656
-      sol.jpeg_0002_nubes2_15: 2460873153244483985
-      sol.jpeg_0002_nubes2_16: -7857161336146495896
-      sol.jpeg_0002_nubes2_17: 1003674293320809651
-      sol.jpeg_0002_nubes2_18: -7175332409857521165
-      sol.jpeg_0002_nubes2_19: 1500841362209079310
-      sol.jpeg_0002_nubes2_2: -3176948654005800652
-      sol.jpeg_0002_nubes2_20: -2269925900398800406
-      sol.jpeg_0002_nubes2_21: 7095022594100224864
-      sol.jpeg_0002_nubes2_22: -2197420277425093108
-      sol.jpeg_0002_nubes2_23: -8767123881649617195
-      sol.jpeg_0002_nubes2_3: -3742741155183151456
-      sol.jpeg_0002_nubes2_4: 4915057398954726577
-      sol.jpeg_0002_nubes2_5: -3658204917600466682
-      sol.jpeg_0002_nubes2_6: 3940205576630450840
-      sol.jpeg_0002_nubes2_7: 2145928084494261180
-      sol.jpeg_0002_nubes2_8: 1187525024640954853
-      sol.jpeg_0002_nubes2_9: 7573680987543428628
+      2_0: 6937817954938267909
+      2_1: 3191122964850554743
+      2_10: -8839637946123531936
+      2_11: 5288689158075730194
+      2_12: -2847823790183061483
+      2_13: -4312959346109786154
+      2_14: 1569468284126946330
+      2_15: -3602863821127969767
+      2_16: -282365312502611083
+      2_17: 4544183903939005263
+      2_18: 2920196126069117805
+      2_19: 3332387826080962713
+      2_2: 5382512944479897801
+      2_20: 6522447452607470340
+      2_21: -1618872855824997472
+      2_22: 4971156485235890979
+      2_23: 4194489117452840178
+      2_3: -5515383189529662604
+      2_4: -3926759211464601419
+      2_5: -4424780041397978121
+      2_6: 8817454751965551104
+      2_7: 3974921216390489406
+      2_8: -779157609879621035
+      2_9: -5883455936764719873
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
