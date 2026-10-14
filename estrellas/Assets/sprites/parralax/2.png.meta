@@ -1,79 +1,73 @@
 fileFormatVersion: 2
-guid: b9bf3e5fe0764e54dbe59efdb4a0ebe3
+guid: 86b48a94c8892284baf1b5072cc8fc8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6937817954938267909
-    second: 2_0
+      213: -6332302759677830431
+    second: nubes 2_0
   - first:
-      213: 3191122964850554743
-    second: 2_1
+      213: 2865517521877808918
+    second: nubes 2_1
   - first:
-      213: 5382512944479897801
-    second: 2_2
+      213: -4728823064532474892
+    second: nubes 2_2
   - first:
-      213: -5515383189529662604
-    second: 2_3
+      213: 2467843979539634305
+    second: nubes 2_3
   - first:
-      213: -3926759211464601419
-    second: 2_4
+      213: 8205755843612090973
+    second: nubes 2_4
   - first:
-      213: -4424780041397978121
-    second: 2_5
+      213: -8674668319996004988
+    second: nubes 2_5
   - first:
-      213: 8817454751965551104
-    second: 2_6
+      213: -6082504211496369979
+    second: nubes 2_6
   - first:
-      213: 3974921216390489406
-    second: 2_7
+      213: 5902702640094129634
+    second: nubes 2_7
   - first:
-      213: -779157609879621035
-    second: 2_8
+      213: 8253813843520320206
+    second: nubes 2_8
   - first:
-      213: -5883455936764719873
-    second: 2_9
+      213: 7115946713530638871
+    second: nubes 2_9
   - first:
-      213: -8839637946123531936
-    second: 2_10
+      213: 8176982102689149155
+    second: nubes 2_10
   - first:
-      213: 5288689158075730194
-    second: 2_11
+      213: -1631602920309842070
+    second: nubes 2_11
   - first:
-      213: -2847823790183061483
-    second: 2_12
+      213: -4434045254563981526
+    second: nubes 2_12
   - first:
-      213: -4312959346109786154
-    second: 2_13
+      213: 700487073458087918
+    second: nubes 2_13
   - first:
-      213: 1569468284126946330
-    second: 2_14
+      213: 521850972953569441
+    second: nubes 2_14
   - first:
-      213: -3602863821127969767
-    second: 2_15
+      213: 6190584543438712197
+    second: nubes 2_15
   - first:
-      213: -282365312502611083
-    second: 2_16
+      213: -6994745512268579659
+    second: nubes 2_16
   - first:
-      213: 4544183903939005263
-    second: 2_17
+      213: 1012494352812552159
+    second: nubes 2_17
   - first:
-      213: 2920196126069117805
-    second: 2_18
+      213: 7297606107626151488
+    second: nubes 2_18
   - first:
-      213: 3332387826080962713
-    second: 2_19
+      213: 3448543413681639154
+    second: nubes 2_19
   - first:
-      213: 6522447452607470340
-    second: 2_20
+      213: -7575294511785311973
+    second: nubes 2_20
   - first:
-      213: -1618872855824997472
-    second: 2_21
-  - first:
-      213: 4971156485235890979
-    second: 2_22
-  - first:
-      213: 4194489117452840178
-    second: 2_23
+      213: 6616448398779075565
+    second: nubes 2_21
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -182,13 +176,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2_0
+      name: nubes 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 703
-        width: 516
-        height: 65
+        x: 32
+        y: 505
+        width: 541
+        height: 247
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,36 +191,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5092c600ca4184060800000000000000
-      internalID: 6937817954938267909
+      spriteID: 1ea5d27a0342f18a0800000000000000
+      internalID: -6332302759677830431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_1
-      rect:
-        serializedVersion: 2
-        x: 943
-        y: 640
-        width: 433
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7773282ed65294c20800000000000000
-      internalID: 3191122964850554743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2_2
+      name: nubes 2_1
       rect:
         serializedVersion: 2
         x: 973
@@ -241,19 +213,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c88aa6510782ba40800000000000000
-      internalID: 5382512944479897801
+      spriteID: 6173f25010d54c720800000000000000
+      internalID: 2865517521877808918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_3
+      name: nubes 2_2
       rect:
         serializedVersion: 2
-        x: 523
-        y: 721
+        x: 1174
+        y: 738
         width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32ed82a78df5eb0800000000000000
+      internalID: -4728823064532474892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nubes 2_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 721
+        width: 12
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -263,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47b6cebf53c6573b0800000000000000
-      internalID: -5515383189529662604
+      spriteID: 188db81360b8f3220800000000000000
+      internalID: 2467843979539634305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_4
+      name: nubes 2_4
       rect:
         serializedVersion: 2
         x: 787
@@ -285,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b0d8225d495189c0800000000000000
-      internalID: -3926759211464601419
+      spriteID: d52a51cb673b0e170800000000000000
+      internalID: 8205755843612090973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_5
+      name: nubes 2_5
       rect:
         serializedVersion: 2
         x: 765
@@ -307,58 +301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fb3c3feef50892c0800000000000000
-      internalID: -4424780041397978121
+      spriteID: 485bd429f136d9780800000000000000
+      internalID: -8674668319996004988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 627
-        width: 224
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 00a9cf94164ed5a70800000000000000
-      internalID: 8817454751965551104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2_7
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 505
-        width: 541
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e356e1949c1c92730800000000000000
-      internalID: 3974921216390489406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2_8
+      name: nubes 2_6
       rect:
         serializedVersion: 2
         x: 541
@@ -373,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 552351f2840ef25f0800000000000000
-      internalID: -779157609879621035
+      spriteID: 5c001f865aa969ba0800000000000000
+      internalID: -6082504211496369979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_9
+      name: nubes 2_7
       rect:
         serializedVersion: 2
         x: 973
@@ -395,14 +345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffcc9755ff3c95ea0800000000000000
-      internalID: -5883455936764719873
+      spriteID: 2ed229df6cc9ae150800000000000000
+      internalID: 5902702640094129634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_10
+      name: nubes 2_8
       rect:
         serializedVersion: 2
         x: 985
@@ -417,14 +367,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0694e365f1c435580800000000000000
-      internalID: -8839637946123531936
+      spriteID: ec2fa39c5ff6b8270800000000000000
+      internalID: 8253813843520320206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_11
+      name: nubes 2_9
       rect:
         serializedVersion: 2
         x: 951
@@ -439,14 +389,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2194092c4c2356940800000000000000
-      internalID: 5288689158075730194
+      spriteID: 7122a9485dbe0c260800000000000000
+      internalID: 7115946713530638871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_12
+      name: nubes 2_10
       rect:
         serializedVersion: 2
         x: 20
@@ -461,14 +411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5186b3be95f7a78d0800000000000000
-      internalID: -2847823790183061483
+      spriteID: 3e0738d16e97a7170800000000000000
+      internalID: 8176982102689149155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_13
+      name: nubes 2_11
       rect:
         serializedVersion: 2
         x: 769
@@ -483,14 +433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d7dc64635a4524c0800000000000000
-      internalID: -4312959346109786154
+      spriteID: a6f1170e9c16b59e0800000000000000
+      internalID: -1631602920309842070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_14
+      name: nubes 2_12
       rect:
         serializedVersion: 2
         x: 1077
@@ -505,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a14e0a9c61fd7c510800000000000000
-      internalID: 1569468284126946330
+      spriteID: a2715b3655b1772c0800000000000000
+      internalID: -4434045254563981526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_15
+      name: nubes 2_13
       rect:
         serializedVersion: 2
         x: 1100
@@ -527,14 +477,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9149f87817e000ec0800000000000000
-      internalID: -3602863821127969767
+      spriteID: ee7e83f2841a8b900800000000000000
+      internalID: 700487073458087918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_16
+      name: nubes 2_14
       rect:
         serializedVersion: 2
         x: 1294
@@ -549,14 +499,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 573c36b8e36d41cf0800000000000000
-      internalID: -282365312502611083
+      spriteID: 1a8e69ce1bcfd3700800000000000000
+      internalID: 521850972953569441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_17
+      name: nubes 2_15
       rect:
         serializedVersion: 2
         x: 688
@@ -571,14 +521,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4b055c3f2f201f30800000000000000
-      internalID: 4544183903939005263
+      spriteID: 58d20b7d7df59e550800000000000000
+      internalID: 6190584543438712197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_18
+      name: nubes 2_16
       rect:
         serializedVersion: 2
         x: 26
@@ -593,14 +543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d6352d0a7ee968820800000000000000
-      internalID: 2920196126069117805
+      spriteID: 5bc39fe240cadee90800000000000000
+      internalID: -6994745512268579659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_19
+      name: nubes 2_17
       rect:
         serializedVersion: 2
         x: 478
@@ -615,14 +565,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 998546372150f3e20800000000000000
-      internalID: 3332387826080962713
+      spriteID: fdf2b7cdf3a1d0e00800000000000000
+      internalID: 1012494352812552159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_20
+      name: nubes 2_18
       rect:
         serializedVersion: 2
         x: 1026
@@ -637,14 +587,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40bd1d69663648a50800000000000000
-      internalID: 6522447452607470340
+      spriteID: 04e17cb271e464560800000000000000
+      internalID: 7297606107626151488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_21
+      name: nubes 2_19
       rect:
         serializedVersion: 2
         x: 1049
@@ -659,14 +609,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a3670cf6bb9889e0800000000000000
-      internalID: -1618872855824997472
+      spriteID: 2fec10da6ffabdf20800000000000000
+      internalID: 3448543413681639154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_22
+      name: nubes 2_20
       rect:
         serializedVersion: 2
         x: 1283
@@ -681,14 +631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 32b5d592c781df440800000000000000
-      internalID: 4971156485235890979
+      spriteID: b110214f6c52fd690800000000000000
+      internalID: -7575294511785311973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2_23
+      name: nubes 2_21
       rect:
         serializedVersion: 2
         x: 900
@@ -703,8 +653,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2fca40401a1d53a30800000000000000
-      internalID: 4194489117452840178
+      spriteID: debcde363c852db50800000000000000
+      internalID: 6616448398779075565
       vertices: []
       indices: 
       edges: []
@@ -723,30 +673,28 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      2_0: 6937817954938267909
-      2_1: 3191122964850554743
-      2_10: -8839637946123531936
-      2_11: 5288689158075730194
-      2_12: -2847823790183061483
-      2_13: -4312959346109786154
-      2_14: 1569468284126946330
-      2_15: -3602863821127969767
-      2_16: -282365312502611083
-      2_17: 4544183903939005263
-      2_18: 2920196126069117805
-      2_19: 3332387826080962713
-      2_2: 5382512944479897801
-      2_20: 6522447452607470340
-      2_21: -1618872855824997472
-      2_22: 4971156485235890979
-      2_23: 4194489117452840178
-      2_3: -5515383189529662604
-      2_4: -3926759211464601419
-      2_5: -4424780041397978121
-      2_6: 8817454751965551104
-      2_7: 3974921216390489406
-      2_8: -779157609879621035
-      2_9: -5883455936764719873
+      nubes 2_0: -6332302759677830431
+      nubes 2_1: 2865517521877808918
+      nubes 2_10: 8176982102689149155
+      nubes 2_11: -1631602920309842070
+      nubes 2_12: -4434045254563981526
+      nubes 2_13: 700487073458087918
+      nubes 2_14: 521850972953569441
+      nubes 2_15: 6190584543438712197
+      nubes 2_16: -6994745512268579659
+      nubes 2_17: 1012494352812552159
+      nubes 2_18: 7297606107626151488
+      nubes 2_19: 3448543413681639154
+      nubes 2_2: -4728823064532474892
+      nubes 2_20: -7575294511785311973
+      nubes 2_21: 6616448398779075565
+      nubes 2_3: 2467843979539634305
+      nubes 2_4: 8205755843612090973
+      nubes 2_5: -8674668319996004988
+      nubes 2_6: -6082504211496369979
+      nubes 2_7: 5902702640094129634
+      nubes 2_8: 8253813843520320206
+      nubes 2_9: 7115946713530638871
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

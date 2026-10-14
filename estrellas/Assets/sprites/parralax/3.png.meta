@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 50f12b2217a88084eb330260154a8b05
+guid: c1fe958af289b274c827c3db4e4a1ae6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2512929428363191690
-    second: "sol.jpeg_0001_monta\xF1as_0"
+      213: 1418196726008702004
+    second: "monta\xF1a_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "sol.jpeg_0001_monta\xF1as_0"
+      name: "monta\xF1a_0"
       rect:
         serializedVersion: 2
         x: 0
-        y: 290
+        y: 284
         width: 1376
-        height: 188
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67a59ccbff7402dd0800000000000000
-      internalID: -2512929428363191690
+      spriteID: 434ee5b88627ea310800000000000000
+      internalID: 1418196726008702004
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "sol.jpeg_0001_monta\xF1as_0": -2512929428363191690
+      "monta\xF1a_0": 1418196726008702004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
