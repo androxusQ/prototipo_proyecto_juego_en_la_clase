@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 805c93a571102654cad6b422f0075239
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8692098715818667583
+    second: caballero_0
+  - first:
+      213: 4715174051955430626
+    second: caballero_1
+  - first:
+      213: 3493516173902168462
+    second: caballero_2
+  - first:
+      213: -2997688469706337188
+    second: caballero_3
+  - first:
+      213: -3800459706800422924
+    second: caballero_4
+  - first:
+      213: 5769547107962390765
+    second: caballero_5
+  - first:
+      213: -6079523332629384781
+    second: caballero_6
+  - first:
+      213: -2630490431818269252
+    second: caballero_7
+  - first:
+      213: 2780479867586219112
+    second: caballero_8
+  - first:
+      213: -6737396805392053554
+    second: caballero_9
+  - first:
+      213: -6872455109000301376
+    second: caballero_10
+  - first:
+      213: -9022260168470163798
+    second: caballero_11
+  - first:
+      213: -4160672002741770447
+    second: caballero_12
+  - first:
+      213: 1254545576128471318
+    second: caballero_13
+  - first:
+      213: 2215574275181264563
+    second: caballero_14
+  - first:
+      213: -2305110606190785430
+    second: caballero_15
+  - first:
+      213: -1468845816951971457
+    second: caballero_16
+  - first:
+      213: -2148661525604574190
+    second: caballero_17
+  - first:
+      213: 2980913389645855294
+    second: caballero_18
+  - first:
+      213: 6371854627976553376
+    second: caballero_19
+  - first:
+      213: 3176090794579165504
+    second: caballero_20
+  - first:
+      213: -7724636590098028710
+    second: caballero_21
+  - first:
+      213: -2199603347209947439
+    second: caballero_22
+  - first:
+      213: -7627912847562552547
+    second: caballero_23
+  - first:
+      213: -5232730665424442910
+    second: caballero_24
+  - first:
+      213: -6802721744839418431
+    second: caballero_25
+  - first:
+      213: -4802705139190794454
+    second: caballero_26
+  - first:
+      213: 4261874265201663384
+    second: caballero_27
+  - first:
+      213: 1646656304819224707
+    second: caballero_28
+  - first:
+      213: -495460856792794457
+    second: caballero_29
+  - first:
+      213: 1438266653202340205
+    second: caballero_30
+  - first:
+      213: 5522331048347404260
+    second: caballero_31
+  - first:
+      213: 2469231690898407749
+    second: caballero_32
+  - first:
+      213: 1860234613454093189
+    second: caballero_33
+  - first:
+      213: -635500751400108056
+    second: caballero_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballero_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 101
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4432787, y: 0.52623904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e2005bab980a870800000000000000
+      internalID: 8692098715818667583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 558
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.46984702, y: 0.4427088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e451f471d9af6140800000000000000
+      internalID: 4715174051955430626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 832
+        width: 104
+        height: 131
+      alignment: 9
+      pivot: {x: 0.43389893, y: 0.5174924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81458263767b7030800000000000000
+      internalID: 3493516173902168462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 832
+        width: 102
+        height: 131
+      alignment: 9
+      pivot: {x: 0.42136937, y: 0.52623904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c549edf18321666d0800000000000000
+      internalID: -2997688469706337188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 832
+        width: 102
+        height: 131
+      alignment: 9
+      pivot: {x: 0.43260282, y: 0.5087462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffb9f8480e024bc0800000000000000
+      internalID: -3800459706800422924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 637
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de80bfcb68c811050800000000000000
+      internalID: 5769547107962390765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 680
+        width: 110
+        height: 131
+      alignment: 9
+      pivot: {x: 0.60416013, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b13dea5db131aba0800000000000000
+      internalID: -6079523332629384781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 676
+        width: 106
+        height: 134
+      alignment: 9
+      pivot: {x: 0.597282, y: 0.51710075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd7862a3ee9e7bd0800000000000000
+      internalID: -2630490431818269252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 680
+        width: 105
+        height: 130
+      alignment: 9
+      pivot: {x: 0.58729595, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c0a9c35bf369620800000000000000
+      internalID: 2780479867586219112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_9
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 680
+        width: 99
+        height: 131
+      alignment: 9
+      pivot: {x: 0.53471977, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca41cf3d45ff72a0800000000000000
+      internalID: -6737396805392053554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 680
+        width: 97
+        height: 131
+      alignment: 9
+      pivot: {x: 0.52362376, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4f73d7d7220a0a0800000000000000
+      internalID: -6872455109000301376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_11
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 680
+        width: 98
+        height: 131
+      alignment: 9
+      pivot: {x: 0.52338517, y: 0.5087462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae0e23cd2e7ac280800000000000000
+      internalID: -9022260168470163798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 378
+        width: 131
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6486858, y: 0.49999976}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137e9a19bd25246c0800000000000000
+      internalID: -4160672002741770447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 382
+        width: 135
+        height: 131
+      alignment: 9
+      pivot: {x: 0.66974217, y: 0.4125373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611ecabfd8a096110800000000000000
+      internalID: 1254545576128471318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 378
+        width: 243
+        height: 148
+      alignment: 9
+      pivot: {x: 0.29253697, y: 0.35290858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be3cad801d4fbe10800000000000000
+      internalID: 2215574275181264563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 291
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c430edd1a9200e0800000000000000
+      internalID: -2305110606190785430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_16
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 382
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7162c2038c9d9be0800000000000000
+      internalID: -1468845816951971457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 382
+        width: 141
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5731335, y: 0.38018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c5acff9bb6e22e0800000000000000
+      internalID: -2148661525604574190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 540
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3afb003fe45e5920800000000000000
+      internalID: 2980913389645855294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 313
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3a8fc46006d6850800000000000000
+      internalID: 6371854627976553376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 237
+        width: 103
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4777524, y: 0.5090214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041874100cdb31c20800000000000000
+      internalID: 3176090794579165504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 441
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57e83cb2f39cc490800000000000000
+      internalID: -7724636590098028710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 237
+        width: 103
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d67ac2e8607971e0800000000000000
+      internalID: -2199603347209947439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 237
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b4567fda5342690800000000000000
+      internalID: -7627912847562552547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 283
+        width: 49
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42985004, y: 0.4007009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9251a1f2b9167b0800000000000000
+      internalID: -5232730665424442910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 364
+        width: 49
+        height: 66
+      alignment: 9
+      pivot: {x: 0.45756248, y: 0.5000034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd550d8d90e791a0800000000000000
+      internalID: -6802721744839418431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 93
+        width: 126
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5727469, y: 0.50895107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f6992f1d595db0800000000000000
+      internalID: -4802705139190794454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 97
+        width: 123
+        height: 117
+      alignment: 9
+      pivot: {x: 0.43479437, y: 0.5293784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d59b65018352b30800000000000000
+      internalID: 4261874265201663384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 255
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5000049, y: 0.5716098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38048e35f291ad610800000000000000
+      internalID: 1646656304819224707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 82
+        width: 18
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5763835, y: 0.3505521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa31cec9f4cf19f0800000000000000
+      internalID: -495460856792794457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_30
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 98
+        width: 135
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46605134, y: 0.3090388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695a6c96efb5f310800000000000000
+      internalID: 1438266653202340205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_31
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 94
+        width: 128
+        height: 89
+      alignment: 9
+      pivot: {x: 0.47314644, y: 0.35838917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e78bd474d243ac40800000000000000
+      internalID: 5522331048347404260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 199
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541032ce329744220800000000000000
+      internalID: 2469231690898407749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 126
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b31d56681e0d910800000000000000
+      internalID: 1860234613454093189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballero_34
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 93
+        width: 164
+        height: 117
+      alignment: 9
+      pivot: {x: 0.58383626, y: 0.21600734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef7d420f6f3e27f0800000000000000
+      internalID: -635500751400108056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67d5e260b4a37ca4590e21413f886d86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caballero_0: 8692098715818667583
+      caballero_1: 4715174051955430626
+      caballero_10: -6872455109000301376
+      caballero_11: -9022260168470163798
+      caballero_12: -4160672002741770447
+      caballero_13: 1254545576128471318
+      caballero_14: 2215574275181264563
+      caballero_15: -2305110606190785430
+      caballero_16: -1468845816951971457
+      caballero_17: -2148661525604574190
+      caballero_18: 2980913389645855294
+      caballero_19: 6371854627976553376
+      caballero_2: 3493516173902168462
+      caballero_20: 3176090794579165504
+      caballero_21: -7724636590098028710
+      caballero_22: -2199603347209947439
+      caballero_23: -7627912847562552547
+      caballero_24: -5232730665424442910
+      caballero_25: -6802721744839418431
+      caballero_26: -4802705139190794454
+      caballero_27: 4261874265201663384
+      caballero_28: 1646656304819224707
+      caballero_29: -495460856792794457
+      caballero_3: -2997688469706337188
+      caballero_30: 1438266653202340205
+      caballero_31: 5522331048347404260
+      caballero_32: 2469231690898407749
+      caballero_33: 1860234613454093189
+      caballero_34: -635500751400108056
+      caballero_4: -3800459706800422924
+      caballero_5: 5769547107962390765
+      caballero_6: -6079523332629384781
+      caballero_7: -2630490431818269252
+      caballero_8: 2780479867586219112
+      caballero_9: -6737396805392053554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
