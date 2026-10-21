@@ -528,10 +528,10 @@ TextureImporter:
         serializedVersion: 2
         x: 549
         y: 378
-        width: 243
-        height: 148
+        width: 242
+        height: 146
       alignment: 9
-      pivot: {x: 0.29253697, y: 0.35290858}
+      pivot: {x: 0.27348515, y: 0.3732026}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -614,12 +614,12 @@ TextureImporter:
       name: caballero_18
       rect:
         serializedVersion: 2
-        x: 84
-        y: 540
-        width: 37
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 90
+        y: 497
+        width: 116
+        height: 143
+      alignment: 9
+      pivot: {x: 0.571047, y: 0.38709158}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -881,9 +881,9 @@ TextureImporter:
         x: 539
         y: 98
         width: 135
-        height: 78
+        height: 115
       alignment: 9
-      pivot: {x: 0.46605134, y: 0.3090388}
+      pivot: {x: 0.5071994, y: 0.2607337}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -903,7 +903,7 @@ TextureImporter:
         x: 694
         y: 94
         width: 128
-        height: 89
+        height: 119
       alignment: 9
       pivot: {x: 0.47314644, y: 0.35838917}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -966,10 +966,10 @@ TextureImporter:
       name: caballero_34
       rect:
         serializedVersion: 2
-        x: 842
-        y: 93
-        width: 164
-        height: 117
+        x: 862
+        y: 97
+        width: 141
+        height: 108
       alignment: 9
       pivot: {x: 0.58383626, y: 0.21600734}
       border: {x: 0, y: 0, z: 0, w: 0}
