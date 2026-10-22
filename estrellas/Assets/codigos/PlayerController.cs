@@ -1,5 +1,5 @@
 using UnityEngine;
-
+using TMPro;
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] float speed = 6f;
@@ -24,6 +24,11 @@ public class PlayerController : MonoBehaviour
     bool grounded;
     float nextAttack;
     float attackingUntil;
+    private int coins;
+    public  TMP_Text textcoins;
+    private int estrella;
+    public TMP_Text textestrella;
+
 
     void Awake()
     {
@@ -82,7 +87,7 @@ public class PlayerController : MonoBehaviour
         {
             EnemyPatrol patrol = hit.GetComponent<EnemyPatrol>();
             if (patrol != null && patrol.BackAttackOnly && !patrol.IsBehind(transform.position))
-                continue; // de frente no le hace daño
+                continue; // de frente no le hace daï¿½o
 
             Health h = hit.GetComponent<Health>();
             if (h != null) h.TakeDamage(attackDamage);
@@ -94,4 +99,15 @@ public class PlayerController : MonoBehaviour
         if (attackPoint != null)
             Gizmos.DrawWireSphere(attackPoint.position, attackRadius);
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+{
+    if (collision.transform.CompareTag("Coin"))
+    {
+        Destroy(collision.gameObject);
+        coins++;
+        textcoins.text = coins.ToString();
+    }
+}
+
 }
