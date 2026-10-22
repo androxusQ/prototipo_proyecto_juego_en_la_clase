@@ -28,6 +28,7 @@ public class PlayerController : MonoBehaviour
     public  TMP_Text textcoins;
     private int estrella;
     public TMP_Text textestrella;
+    public int vida = 3;
 
 
     void Awake()
@@ -107,6 +108,11 @@ public class PlayerController : MonoBehaviour
         Destroy(collision.gameObject);
         coins++;
         textcoins.text = coins.ToString();
+    }else if (collision.CompareTag("Estrella"))
+    {
+        Destroy(collision.gameObject);
+        estrella++;
+        textestrella.text = estrella.ToString();
     }
 }
 
