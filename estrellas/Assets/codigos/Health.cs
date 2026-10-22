@@ -12,6 +12,8 @@ public class Health : MonoBehaviour
     Animator anim;
 
     public bool IsDead { get; private set; }
+    public int Current => current;
+    public int Max => maxHealth;
 
     void Awake()
     {
@@ -32,6 +34,7 @@ public class Health : MonoBehaviour
 
     void Die()
     {
+        current = 0;
         IsDead = true;
         if (anim) anim.SetTrigger("Die");
         if (destroyOnDeath) Destroy(gameObject, destroyDelay);
