@@ -2,6 +2,7 @@ using UnityEngine;
 using TMPro;
 public class PlayerController : MonoBehaviour
 {
+    public CoinFlyAnimation coinFlyAnimation;
     [SerializeField] float speed = 6f;
     [SerializeField] float jumpForce = 12f;
     [SerializeField] Transform groundCheck;
