@@ -6,6 +6,7 @@ public class Health : MonoBehaviour
     [SerializeField] bool destroyOnDeath = true;
     [SerializeField] float destroyDelay = 1f;
     [SerializeField] float invulnerableTime = 0.5f;
+    [SerializeField] bool isPlayer = false;
 
     int current;
     float invulnerableUntil;
@@ -37,6 +38,12 @@ public class Health : MonoBehaviour
         current = 0;
         IsDead = true;
         if (anim) anim.SetTrigger("Die");
+
+        if (isPlayer && GameManager.Instance != null)
+        {
+            GameManager.Instance.GameOver();
+        }
+
         if (destroyOnDeath) Destroy(gameObject, destroyDelay);
     }
 }
