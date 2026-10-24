@@ -102,18 +102,25 @@ public class PlayerController : MonoBehaviour
             Gizmos.DrawWireSphere(attackPoint.position, attackRadius);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+  private void OnTriggerEnter2D(Collider2D collision)
 {
     if (collision.transform.CompareTag("Coin"))
     {
         Destroy(collision.gameObject);
         coins++;
         textcoins.text = coins.ToString();
-    }else if (collision.CompareTag("Estrella"))
+
+        if (GameManager.Instance != null)
+            GameManager.Instance.AddCoin();
+    }
+    else if (collision.CompareTag("Estrella"))
     {
         Destroy(collision.gameObject);
         estrella++;
         textestrella.text = estrella.ToString();
+
+        if (GameManager.Instance != null)
+            GameManager.Instance.AddStar();
     }
 }
 
