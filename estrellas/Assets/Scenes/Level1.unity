@@ -27190,6 +27190,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1046987161}
     m_Modifications:
+    - target: {fileID: 1036859276368369745, guid: 0bf5f50e694aacb418324339edfee790, type: 3}
+      propertyPath: maxHealth
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 4649469511295790319, guid: 0bf5f50e694aacb418324339edfee790, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.88096
@@ -27360,6 +27364,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1829520192257803588, guid: 4021ca7eb6b84ea4b8da489919a81ca5, type: 3}
+      propertyPath: maxHealth
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 5779105732799420367, guid: 4021ca7eb6b84ea4b8da489919a81ca5, type: 3}
       propertyPath: m_Name
       value: Slime
@@ -27420,6 +27428,10 @@ PrefabInstance:
     - target: {fileID: 1664223997079270438, guid: 483d772d3cce67d45b37a4991a5240c8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114739109069306105, guid: 483d772d3cce67d45b37a4991a5240c8, type: 3}
+      propertyPath: maxHealth
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
